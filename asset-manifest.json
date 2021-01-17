@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/live_score/static/css/main.a96cd534.chunk.css",
+    "main.js": "/live_score/static/js/main.83e14b2e.chunk.js",
+    "main.js.map": "/live_score/static/js/main.83e14b2e.chunk.js.map",
+    "runtime-main.js": "/live_score/static/js/runtime-main.71c9cd0a.js",
+    "runtime-main.js.map": "/live_score/static/js/runtime-main.71c9cd0a.js.map",
+    "static/js/2.11816a9a.chunk.js": "/live_score/static/js/2.11816a9a.chunk.js",
+    "static/js/2.11816a9a.chunk.js.map": "/live_score/static/js/2.11816a9a.chunk.js.map",
+    "static/js/3.5917ed61.chunk.js": "/live_score/static/js/3.5917ed61.chunk.js",
+    "static/js/3.5917ed61.chunk.js.map": "/live_score/static/js/3.5917ed61.chunk.js.map",
+    "index.html": "/live_score/index.html",
+    "static/css/main.a96cd534.chunk.css.map": "/live_score/static/css/main.a96cd534.chunk.css.map",
+    "static/js/2.11816a9a.chunk.js.LICENSE.txt": "/live_score/static/js/2.11816a9a.chunk.js.LICENSE.txt",
+    "static/media/verses.cae0f223.png": "/live_score/static/media/verses.cae0f223.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71c9cd0a.js",
+    "static/js/2.11816a9a.chunk.js",
+    "static/css/main.a96cd534.chunk.css",
+    "static/js/main.83e14b2e.chunk.js"
+  ]
+}
